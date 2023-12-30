@@ -97,10 +97,9 @@ BepinEx
 ├───patchers
 └───plugins
         └───2018-LC_API
-        │   LC_API.dll
-        │
-        └───Bundles
-                networking
+            │   LC_API.dll
+            │   Bundles
+                └───   networking
 ```
 
 # TODO
